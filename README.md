@@ -9,8 +9,8 @@ Find the full app demonstration [cooker][ck]. For user experience, one can easil
 ---
 
 ### What does this app do?
-"You give ingredients, COOKER will suggest you recepies." - This is the moto of the app. It's for one of those days, when you open your fridge and all on sudden 
-confused yourself, what to make ! COOKER comes handy here. You simply give ingredients, HOLA !! One can also save their personal recipe also.
+"You give ingredients, COOKER will suggest you recepies." - This is the moto of the app. It's for one of those days, when you open your fridge and all on a sudden 
+confusing yourself, what to make ! COOKER comes handy here. You simply give ingredients, HOLA !! One can also save their personal recipe also.
 
 ----
 
